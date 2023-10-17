@@ -2,6 +2,7 @@
 
 const { Schema, model } = require('mongoose');
 
+// both subdocument schema for user's saved strains but also used to map through on result component
 const strainSchema = new Schema({
   name: {
     type: String,
@@ -14,7 +15,6 @@ const strainSchema = new Schema({
   // saved book id from GoogleBooks
   strainId: {
     type: String,
-    required: true,
   },
   image: {
     type: String,
@@ -27,10 +27,6 @@ const strainSchema = new Schema({
     type: String,
     required: true,
   },
-  flavor: {
-    type: String, 
-    required: true,
-  },
   illnesses: [
     {
       type: String,
@@ -39,6 +35,6 @@ const strainSchema = new Schema({
   ],
 });
 
-const Strains = model('Strain', strainSchema);
+const Strain = model('Strain', strainSchema);
 
 module.exports = strainSchema;

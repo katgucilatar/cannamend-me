@@ -12,6 +12,14 @@ const illnessSchema = new Schema({
     type: String,
     required: true,
   },
+  effectOnUser: {
+    type: String,
+    required: true,
+  },
+  link: {
+    type: String,
+    required: true,
+  }
 });
 
 const Illness = model('Illness', illnessSchema);

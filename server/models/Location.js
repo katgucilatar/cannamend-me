@@ -2,6 +2,7 @@
 
 const { Schema } = require('mongoose');
 
+// subdocument schema for user's saved locations
 const locationSchema = new Schema({
   city: {
     type: String,

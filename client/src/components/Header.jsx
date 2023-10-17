@@ -7,7 +7,7 @@ import { Dropdown, Navbar } from 'flowbite-react';
 export default function NavbarWithDropdown() {
   return (
     <Navbar fluid rounded>
-      <Navbar.Brand href="https://flowbite-react.com">
+      <Navbar.Brand>
         <img src="./assets/mainlogo.png" className="mr-3 h-6 sm:h-9" alt="Main Logo" />
       </Navbar.Brand>
       <div className="flex md:order-2">
