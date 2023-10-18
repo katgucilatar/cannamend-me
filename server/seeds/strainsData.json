@@ -1,19 +1,203 @@
 [
     {
-      "name":
-      "description":
-      "image":
-      "link":
-      "type":
-      "illnesses": []
+      "name": "Blackberry Kush",
+      "description": "Blackberry Kush is an indica-dominant cannabis strain known for its sweet and fruity flavor profile. It's characterized by dark purple and black hues in its dense, resinous buds. The strain is celebrated for its relaxing and sedating effects, making it a popular choice for those seeking stress relief and sleep aid. Blackberry Kush is also appreciated for its ability to induce a sense of euphoria and tranquility, making it a favorite among cannabis enthusiasts for its balanced high and delightful taste.",
+      "image": "https://b2628119.smushcdn.com/2628119/app/uploads/2022/11/blackberry-kush-marijuana-strain-scaled.jpg?lossy=1&strip=1&webp=1",
+      "link": "https://leafwell.com/cannabis-strains/blackberry-kush",
+      "type": "Indica-dominant Hybrid",
+      "illness": "Cancer"
     },
     {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
+        "name": "Granddaddy Purple",
+        "description": "Granddaddy Purple, often abbreviated as GDP, is a popular indica-dominant cannabis strain known for its deep purple and violet hues. This strain is cherished for its sweet and grape-like flavor and its ability to induce a profoundly relaxing and sedating high. Granddaddy Purple is frequently chosen by individuals looking for relief from pain, stress, and insomnia, as it tends to promote a calm and euphoric experience, followed by a gentle body buzz. Its iconic appearance and soothing effects have made it a favorite strain among both recreational and medical cannabis users.",
+        "image": "https://b2628119.smushcdn.com/2628119/app/uploads/2023/01/marijuana-bud-general-2.jpeg?lossy=1&strip=1&webp=1",
+        "link": "https://leafwell.com/cannabis-strains/granddaddy-purple",
+        "type": "Indica-dominant Hybrid",
+        "illness": "Cancer"
+      },
+      {
+        "name": "Blueberry Diesel",
+        "description": "Blueberry Diesel is a hybrid cannabis strain that combines the genetics of Blueberry and Sour Diesel. This strain is renowned for its well-rounded effects and unique flavor profile. Blueberry Diesel typically offers a sweet, fruity, and blueberry-like taste, with undertones of diesel and earthy notes. Blueberry Diesel often delivers a balanced experience, with an initial burst of cerebral euphoria from the Sour Diesel lineage, followed by a relaxed and mellow body sensation from the Blueberry genetics. It's favored by those seeking a harmonious blend of mental clarity and physical relaxation, making it suitable for various occasions and activities.",
+        "image": "https://b2628119.smushcdn.com/2628119/app/uploads/2022/09/marijuana-bud-general.jpg?lossy=1&strip=1&webp=1",
+        "link": "https://leafwell.com/cannabis-strains/blue-diesel",
+        "type": "Indica-dominant Hybrid",
+        "illness": "Cancer"
+      },
+      {
+        "name": "Northern Lights",
+        "description": "Northern Lights is a classic and revered indica cannabis strain known for its relaxation-inducing properties and earthy, sweet aroma. It originated in the Pacific Northwest and has become one of the most iconic and influential strains in the world of cannabis. Northern Lights typically produces compact, resinous buds with a vibrant green appearance. The effects of Northern Lights are well-regarded for their deeply calming and sedating nature, making it a popular choice for those seeking relief from stress, pain, and insomnia. This strain is known for inducing a sense of relaxation and euphoria while also helping to ease both physical and mental tension. Its reputation for reliability and potency has made it a staple in the cannabis community for decades.",
+        "image": "https://b2628119.smushcdn.com/2628119/app/uploads/2022/10/northern-lights-marijuana-strain-1566x2048.jpg?lossy=1&strip=1&webp=1",
+        "link": "https://leafwell.com/cannabis-strains/northern-lights",
+        "type": "Indica-dominant Hybrid",
+        "illness": "Cancer"
+      },
+      {
+        "name": "Cinex",
+        "description": "Cinex is a popular and well-regarded sativa-dominant cannabis strain known for its uplifting and energizing effects. It's a cross between Cinderella 99 and Vortex strains, resulting in a balanced and cerebral experience. Cinex typically features bright green buds with a coating of resinous trichomes. The effects of Cinex are characterized by a clear-headed, focused, and creative high, making it a suitable choice for daytime use. It often provides a burst of mental energy and motivation, making it a favorite among those looking to enhance productivity or engage in creative endeavors.",
+        "image": "https://images.leafly.com/flower-images/CINEX-077.jpg?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/cinex",
+        "type": "Sativa-dominant Hybrid",
+        "illness": "Cancer"
+      },
+      {
+        "name": "Blue Dream",
+        "description": "Blue Dream is a highly popular and well-balanced hybrid cannabis strain that has gained widespread acclaim for its enjoyable effects and pleasant flavor. This strain is the result of crossing the Blueberry indica with the sativa Haze, producing a unique combination of characteristics. Blue Dream is known for its sweet, berry-like aroma and taste, often accompanied by hints of earthiness. Its effects are typically balanced, offering a relaxed body sensation combined with a cerebral and uplifting high. This makes it a versatile strain, suitable for both recreational and medicinal users. Users often report feelings of euphoria, creativity, and stress relief without excessive sedation, making it a favored choice for daytime use and creative activities. Blue Dream is celebrated for its ability to offer the best of both sativa and indica worlds, and it's one of the most beloved strains in the cannabis community.",
+        "image": "https://b2628119.smushcdn.com/2628119/app/uploads/2022/10/blue-dream-marijuana-strain-scaled.jpg?lossy=1&strip=1&webp=1",
+        "link": "https://leafwell.com/cannabis-strains/blue-dream",
+        "type": "Sativa-dominant Hybrid",
+        "illness": "HIV/AIDS"
+      },
+      {
+        "name": "Cheese",
+        "description": "Cheese is a popular indica-dominant cannabis strain known for its pungent aroma and unique flavor profile that resembles the smell of aged cheese. This strain is believed to have originated in the United Kingdom and has since gained recognition for its distinct characteristics. The effects of Cheese typically include a relaxed and euphoric high, often accompanied by a sense of contentment and happiness. It's known for its ability to induce a calming and sedating experience, making it a favorite among those seeking relief from stress, anxiety, and insomnia. While the smell and taste of Cheese may not be appealing to everyone, its effects and therapeutic benefits have made it a sought-after strain in the world of cannabis.",
+        "image": "https://images.leafly.com/flower-images/cheese.png?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/cheese",
+        "type": "Indica-dominant Hybrid",
+        "illness": "HIV/AIDS"
+      },
+      {
+        "name": "Durban Berry",
+        "description": "Durban Berry is a hybrid cannabis strain that combines the genetics of Durban Poison and a berry-flavored strain, resulting in a unique and flavorful combination. This strain is known for its pleasant berry-like aroma and taste, often accompanied by hints of earthiness and sweetness. The effects of Durban Berry typically include a balanced high with a clear-headed, uplifting, and energizing experience. It's appreciated for its ability to provide mental clarity, creativity, and motivation, making it suitable for daytime use and enhancing focus and productivity. This strain may also offer a gentle relaxation without causing excessive sedation, making it a versatile choice for various occasions. Durban Berry is appreciated for its well-rounded effects and delightful flavor profile, making it appealing to a wide range of cannabis users.",
+        "image": "https://images.leafly.com/flower-images/defaults/generic/strain-40.png?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/durban-berry",
+        "type": "Hybrid",
+        "illness": "HIV/AIDS"
+      },
+      {
+        "name": "Fruit Punch",
+        "description": "Fruit Punch is a hybrid cannabis strain known for its delightful combination of fruity flavors and well-balanced effects. This strain is often celebrated for its tropical and citrusy aroma and taste, reminiscent of a refreshing fruit punch. The effects of Fruit Punch typically include a gentle and uplifting euphoria combined with a relaxing body sensation. It provides a sense of happiness and contentment without overwhelming sedation, making it a versatile choice for both recreational and medicinal users. Fruit Punch is appreciated for its ability to enhance mood and creativity while also offering potential relief from stress and mild physical discomfort. This strain is known for its enjoyable taste and balanced effects, making it a popular choice among cannabis enthusiasts.",
+        "image": "https://images.leafly.com/flower-images/defaults/generic/strain-34.png?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/fruit-punch",
+        "type": "Sativa",
+        "illness": "HIV/AIDS"
+      },
+      {
+        "name": "Sour Diesel",
+        "description": "Sour Diesel, often referred to as 'Sour D,' is a renowned sativa-dominant cannabis strain celebrated for its distinctive pungent aroma and potent, energizing effects. It's known for its fuel-like, skunky scent with undertones of citrus and earthiness. The effects of Sour Diesel are typically characterized by a powerful and uplifting cerebral high. It offers increased mental clarity, creativity, and motivation, making it a preferred choice for daytime use and enhancing focus and productivity. Many users also report a surge of euphoria and sociability when consuming this strain. Sour Diesel is widely recognized for its potent effects and its ability to alleviate symptoms of depression, stress, and fatigue. It's a beloved strain among sativa enthusiasts for its unique flavor and invigorating experience.",
+        "image": "https://leafly-public.imgix.net/strains/photos/5SPDG4T4TcSO8PgLgWHO_SourDiesel_AdobeStock_171888473.jpg?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/sour-diesel",
+        "type": "Sativa",
+        "illness": "HIV/AIDS"
+      },
+      {
+        "name": "Charlotte's Web",
+        "description": "Charlotte's Web is a famous hemp strain known for its high CBD (cannabidiol) content and low THC (tetrahydrocannabinol) levels. It was originally developed for its medicinal properties, especially in the treatment of epilepsy and other seizure disorders, and it played a pivotal role in the use of CBD in the medical cannabis community. The strain is named after Charlotte Figi, a young girl who experienced significant relief from her severe epilepsy when using this strain. Charlotte's Web is associated with a mild and non-intoxicating high due to its low THC content. It's often used for its potential therapeutic benefits, including reducing anxiety, relieving pain, and addressing various medical conditions without the typical psychoactive effects of THC-rich strains. As a result, it's widely sought after for its medicinal properties and is available in various forms, including oils and tinctures.",
+        "image": "https://images.leafly.com/flower-images/defaults/generic/strain-7.png?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/charlottes-web",
+        "type": "CBD-Dominant Sativa",
+        "illness": "Epilepsy/Seizures"
+      },
+      {
+        "name": "Ringo's Gift",
+        "description": "Ringo's Gift is a high-CBD cannabis strain named after the cannabis activist and CBD pioneer, Lawrence Ringo. This hybrid strain is known for its therapeutic properties and balanced CBD-to-THC ratio, typically with more CBD than THC. Ringo's Gift is often chosen for its potential medicinal benefits, such as alleviating pain, inflammation, anxiety, and various medical conditions, while causing minimal intoxication due to its low THC content. It offers a mellow and relaxing experience, making it suitable for those who want the potential therapeutic effects of cannabis without a strong psychoactive high. The strain typically has a pleasant and earthy flavor profile. Ringo's Gift has gained popularity within the medical cannabis community as a CBD-rich option for patients seeking relief from various ailments.",
+        "image": "https://images.leafly.com/flower-images/defaults/generic/strain-15.png?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/ringos-gift",
+        "type": "CBD-Dominant Hybrid",
+        "illness": "Epilepsy/Seizures"
+      },
+      {
+        "name": "ACDC",
+        "description": "ACDC is a unique and highly regarded cannabis strain known for its remarkably high CBD (cannabidiol) content and very low THC (tetrahydrocannabinol) levels. The name 'ACDC' is a nod to the rock band and reflects the strain's contrasting effects compared to THC-dominant strains. ACDC is often chosen for its therapeutic properties and is popular among medical cannabis users. It's known for its potential to provide relief from a variety of ailments, including pain, inflammation, anxiety, and seizures, while causing minimal psychoactive effects. This makes it ideal for those who seek the benefits of cannabis without the typical high. The strain typically has a mild, earthy flavor profile and is available in various forms, including oils and tinctures, which are commonly used for medicinal purposes. ACDC has played a significant role in the CBD movement and has contributed to the acceptance of CBD-rich cannabis in the medical community.",
+        "image": "https://images.leafly.com/flower-images/defaults/generic/strain-23.png?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/acdc",
+        "type": "CBD-Dominant Hybrid",
+        "illness": "Epilepsy/Seizures"
+      },
+      {
+        "name": "Cannatonic",
+        "description": "Cannatonic is a hybrid cannabis strain that is well-known for its balanced CBD (cannabidiol) to THC (tetrahydrocannabinol) ratio, typically featuring higher levels of CBD and lower levels of THC. This strain is often chosen for its potential therapeutic benefits and mellow effects. Cannatonic is favored for its potential to provide relief from various medical conditions, including pain, anxiety, and inflammation, while causing minimal psychoactive effects due to its low THC content. It typically offers a gentle, relaxing experience without the intense high associated with THC-rich strains. The strain often has a mild and earthy flavor profile, making it a popular choice among medical cannabis users who seek the benefits of CBD without the intoxication of THC. Cannatonic has played a significant role in advancing the use of CBD in the medical cannabis community.",
+        "image": "https://images.leafly.com/flower-images/cannatonic.png?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/cannatonic",
+        "type": "CBD-Dominant Hybrid",
+        "illness": "Epilepsy/Seizures"
+      },
+      {
+        "name": "Purple Urkle",
+        "description": "Purple Urkle is a popular indica cannabis strain known for its stunning purple hues and sweet, grape-like flavor. This strain is celebrated for its visual appeal and delightful taste. Purple Urkle typically induces a relaxing and sedating high, making it a favorite among those seeking relief from stress, pain, and insomnia. Users often report a sense of euphoria and tranquility, accompanied by a gentle body buzz. The strain's calming effects and pleasant flavor profile have made it a beloved choice in the world of cannabis. Its appearance, which can range from deep purple to nearly black, adds to its allure and aesthetic appeal.",
+        "image": "https://images.leafly.com/flower-images/defaults/purple/strain-8.png?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/purple-urkle",
+        "type": "Indica",
+        "illness": "Epilepsy/Seizures"
+      },
+      {
+        "name": "Sour Diesel",
+        "description": "Sour Diesel, often referred to as 'Sour D,' is a renowned sativa-dominant cannabis strain celebrated for its distinctive pungent aroma and potent, energizing effects. It's known for its fuel-like, skunky scent with undertones of citrus and earthiness. The effects of Sour Diesel are typically characterized by a powerful and uplifting cerebral high. It offers increased mental clarity, creativity, and motivation, making it a preferred choice for daytime use and enhancing focus and productivity. Many users also report a surge of euphoria and sociability when consuming this strain. Sour Diesel is widely recognized for its potent effects and its ability to alleviate symptoms of depression, stress, and fatigue. It's a beloved strain among sativa enthusiasts for its unique flavor and invigorating experience.",
+        "image": "https://leafly-public.imgix.net/strains/photos/5SPDG4T4TcSO8PgLgWHO_SourDiesel_AdobeStock_171888473.jpg?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/sour-diesel",
+        "type": "Sativa",
+        "illness": "Glaucoma"
+      },
+      {
+        "name": "Maui Wowie",
+        "description": "Maui Wowie, sometimes spelled as Maui Waui, is a classic sativa cannabis strain with tropical origins. It's well-regarded for its uplifting and energetic effects, reminiscent of the sunny Hawaiian islands. Maui Wowie typically offers a creative and euphoric high, making it a popular choice for daytime use and social gatherings. The strain's aroma and flavor are often described as sweet and citrusy, with hints of pineapple and tropical fruit, contributing to its island-inspired appeal. Users often report feeling mentally refreshed and invigorated, making Maui Wowie a sought-after strain for enhancing mood, focus, and productivity. Its tropical flavor and upbeat effects have made it a favorite among cannabis enthusiasts, and it's considered a classic in the world of sativa strains.",
+        "image": "https://images.leafly.com/flower-images/defaults/generic/strain-18.png?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/maui-wowie",
+        "type": "Sativa",
+        "illness": "Glaucoma"
+      },
+      {
+        "name": "Tesla Tower",
+        "description": "A cross of Lazy Bee Garden’s favorite sativa hybrids, Tesla Tower is a robust strain with cerebral effects. This in-house cross offers the creative attributes of White Fire OG with the uplifting, energetic high of Snowcap, creating an upbeat buzz that is both stimulating and motivating. This strain is a helpful companion while getting chores done or going on an adventure.",
+        "image": "https://images.leafly.com/flower-images/defaults/generic/strain-29.png?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/tesla-tower",
+        "type": "Sativa",
+        "illness": "Glaucoma"
+      },
+      {
+        "name": "Kelly Hill Gold",
+        "description": "Cultivated by Joseph Arthur Botanicals in Colorado, Kelly Hill Gold is a 70/30 indica-dominant strain that crosses Acapulco Gold and Chemdawg 4. With buds that are large and full of orange pistils, this strain gives off strong earthy notes and the smell of burnt coffee. Averaging at 24.5% THC, its potent effects will send you into a relaxed and euphoric state that can help alleviate anxiety and stress.",
+        "image": "https://images.leafly.com/flower-images/defaults/red-orange-amber/strain-2.png?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/kelly-hill-gold",
+        "type": "Indica-dominant Hybrid",
+        "illness": "Glaucoma"
+      },
+      {
+        "name": "Cherry Kola",
+        "description": "Cherry Kola, often referred to as 'Cherry Cola,' is a hybrid cannabis strain known for its delightful combination of fruity and earthy flavors, reminiscent of the classic soft drink. The strain typically produces dense, resinous buds with vibrant green and orange hues. The effects of Cherry Kola often include a balanced high that combines both cerebral and physical sensations. It may induce a sense of euphoria and relaxation without overwhelming sedation, making it a versatile choice for various occasions. Users often report feelings of happiness and a mild uplift in mood. Cherry Kola is appreciated for its unique flavor and balanced effects, which have contributed to its popularity among cannabis enthusiasts.",
+        "image": "https://images.leafly.com/flower-images/defaults/generic/strain-23.png?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/cherry-kola",
+        "type": "Indica",
+        "illness": "Glaucoma"
+      },
+      {
+        "name": "Northern Lights",
+        "description": "Northern Lights is a classic and revered indica cannabis strain known for its relaxation-inducing properties and earthy, sweet aroma. It originated in the Pacific Northwest and has become one of the most iconic and influential strains in the world of cannabis. Northern Lights typically produces compact, resinous buds with a vibrant green appearance. The effects of Northern Lights are well-regarded for their deeply calming and sedating nature, making it a popular choice for those seeking relief from stress, pain, and insomnia. This strain is known for inducing a sense of relaxation and euphoria while also helping to ease both physical and mental tension. Its reputation for reliability and potency has made it a staple in the cannabis community for decades.",
+        "image": "https://b2628119.smushcdn.com/2628119/app/uploads/2022/10/northern-lights-marijuana-strain-1566x2048.jpg?lossy=1&strip=1&webp=1",
+        "link": "https://leafwell.com/cannabis-strains/northern-lights",
+        "type": "Indica-dominant Hybrid",
+        "illness": "Chronic pain"
+      },
+      {
+        "name": "Cannatonic",
+        "description": "Cannatonic is a hybrid cannabis strain that is well-known for its balanced CBD (cannabidiol) to THC (tetrahydrocannabinol) ratio, typically featuring higher levels of CBD and lower levels of THC. This strain is often chosen for its potential therapeutic benefits and mellow effects. Cannatonic is favored for its potential to provide relief from various medical conditions, including pain, anxiety, and inflammation, while causing minimal psychoactive effects due to its low THC content. It typically offers a gentle, relaxing experience without the intense high associated with THC-rich strains. The strain often has a mild and earthy flavor profile, making it a popular choice among medical cannabis users who seek the benefits of CBD without the intoxication of THC. Cannatonic has played a significant role in advancing the use of CBD in the medical cannabis community.",
+        "image": "https://images.leafly.com/flower-images/cannatonic.png?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/cannatonic",
+        "type": "CBD-Dominant Hybrid",
+        "illness": "Chronic pain"
+      },
+      {
+        "name": "White Widow",
+        "description": "White Widow is a classic and highly popular hybrid cannabis strain, known for its potent effects and distinctive appearance. It was originally bred in the Netherlands. The strain typically has a high THC content, which can produce strong cerebral and physical effects. Users often report feeling euphoric and creative, followed by a sense of relaxation and physical comfort. White Widow's effects are often described as balanced, making it suitable for both recreational and medicinal use. The strain gets its name from the white, crystal-like trichomes that cover the dense, green buds, giving it a frosted appearance. Its aroma is a mix of earthy and woody notes with a hint of sweetness.",
+        "image": "https://images.leafly.com/flower-images/white-widow.png?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/white-widow",
+        "type": "Hybrid",
+        "illness": "Chronic pain"
+      },
+      {
+        "name": "Harlequin",
+        "description": "Harlequin is a unique and highly regarded cannabis strain known for its exceptionally high CBD (cannabidiol) content and low THC (tetrahydrocannabinol) levels. This strain is primarily sought after for its therapeutic properties. Harlequin is often used for its potential to provide relief from various medical conditions, including pain, inflammation, anxiety, and epilepsy, while causing minimal psychoactive effects due to its low THC content. It typically offers a clear-headed, relaxed experience without the strong 'high' associated with THC-rich strains. The strain often has a mild and earthy flavor profile. Harlequin is popular among medical cannabis users who are looking for the benefits of CBD without the intoxicating effects of THC, making it a valuable option for those seeking natural relief from various ailments.",
+        "image": "https://leafly-public.imgix.net/strains/photos/bsJVwckRoqbWoEoiBzzg_Harlequin_jman_1080x0180.jpg?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/harlequin",
+        "type": "CBD-dominant Sativa",
+        "illness": "Chronic pain"
+      },
+      {
+        "name": "Blueberry",
+        "description": "Blueberry is an indica-dominant cannabis strain that's celebrated for its delightful blueberry-like aroma and taste. This strain typically features dense, colorful buds with hues of blue and purple, adding to its visual appeal. The effects of Blueberry are typically characterized by a deeply relaxing and euphoric high, making it a popular choice for those seeking stress relief and relaxation. Users often report a sense of contentment and happiness, along with a gentle body buzz that can help alleviate physical tension and discomfort. The strain's sweet and fruity flavor profile adds to its overall appeal.",
+        "image": "https://images.leafly.com/flower-images/blueberry.jpg?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/blueberry",
+        "type": "Indica",
+        "illness": "Chronic pain"
       },
       {
         "name":
@@ -21,7 +205,7 @@
         "image":
         "link":
         "type":
-        "illnesses": []
+        "illness": 
       },
       {
         "name":
@@ -29,7 +213,7 @@
         "image":
         "link":
         "type":
-        "illnesses": []
+        "illness": 
       },
       {
         "name":
@@ -37,7 +221,7 @@
         "image":
         "link":
         "type":
-        "illnesses": []
+        "illness": 
       },
       {
         "name":
@@ -45,191 +229,7 @@
         "image":
         "link":
         "type":
-        "illnesses": []
-      },
-      {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
-      },
-      {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
-      },
-      {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
-      },
-      {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
-      },
-      {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
-      },
-      {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
-      },
-      {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
-      },
-      {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
-      },
-      {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
-      },
-      {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
-      },
-      {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
-      },
-      {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
-      },
-      {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
-      },
-      {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
-      },
-      {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
-      },
-      {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
-      },
-      {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
-      },
-      {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
-      },
-      {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
-      },
-      {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
-      },
-      {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
-      },
-      {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
-      },
-      {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
+        "illness": 
       },
       {
         "name":

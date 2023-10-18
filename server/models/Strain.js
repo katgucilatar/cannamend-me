@@ -27,12 +27,10 @@ const strainSchema = new Schema({
     type: String,
     required: true,
   },
-  illnesses: [
-    {
+  illness: {
       type: String,
       required: true,
     },
-  ],
 });
 
 const Strain = model('Strain', strainSchema);
