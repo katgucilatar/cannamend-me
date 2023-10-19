@@ -35,4 +35,4 @@ const strainSchema = new Schema({
 
 const Strain = model('Strain', strainSchema);
 
-module.exports = strainSchema;
+module.exports = Strain;

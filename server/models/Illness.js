@@ -24,4 +24,4 @@ const illnessSchema = new Schema({
 
 const Illness = model('Illness', illnessSchema);
 
-module.exports = illnessSchema;
+module.exports = Illness;
