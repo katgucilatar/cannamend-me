@@ -1,13 +1,13 @@
 [
-    {
-      "name": "Blackberry Kush",
-      "description": "Blackberry Kush is an indica-dominant cannabis strain known for its sweet and fruity flavor profile. It's characterized by dark purple and black hues in its dense, resinous buds. The strain is celebrated for its relaxing and sedating effects, making it a popular choice for those seeking stress relief and sleep aid. Blackberry Kush is also appreciated for its ability to induce a sense of euphoria and tranquility, making it a favorite among cannabis enthusiasts for its balanced high and delightful taste.",
-      "image": "https://b2628119.smushcdn.com/2628119/app/uploads/2022/11/blackberry-kush-marijuana-strain-scaled.jpg?lossy=1&strip=1&webp=1",
-      "link": "https://leafwell.com/cannabis-strains/blackberry-kush",
-      "type": "Indica-dominant Hybrid",
-      "illness": "Cancer"
-    },
-    {
+      {
+       "name": "Blackberry Kush",
+       "description": "Blackberry Kush is an indica-dominant cannabis strain known for its sweet and fruity flavor profile. It's characterized by dark purple and black hues in its dense, resinous buds. The strain is celebrated for its relaxing and sedating effects, making it a popular choice for those seeking stress relief and sleep aid. Blackberry Kush is also appreciated for its ability to induce a sense of euphoria and tranquility, making it a favorite among cannabis enthusiasts for its balanced high and delightful taste.",
+       "image": "https://b2628119.smushcdn.com/2628119/app/uploads/2022/11/blackberry-kush-marijuana-strain-scaled.jpg?lossy=1&strip=1&webp=1",
+       "link": "https://leafwell.com/cannabis-strains/blackberry-kush",
+       "type": "Indica-dominant Hybrid",
+       "illness": "Cancer"
+      },
+      {
         "name": "Granddaddy Purple",
         "description": "Granddaddy Purple, often abbreviated as GDP, is a popular indica-dominant cannabis strain known for its deep purple and violet hues. This strain is cherished for its sweet and grape-like flavor and its ability to induce a profoundly relaxing and sedating high. Granddaddy Purple is frequently chosen by individuals looking for relief from pain, stress, and insomnia, as it tends to promote a calm and euphoric experience, followed by a gentle body buzz. Its iconic appearance and soothing effects have made it a favorite strain among both recreational and medical cannabis users.",
         "image": "https://b2628119.smushcdn.com/2628119/app/uploads/2023/01/marijuana-bud-general-2.jpeg?lossy=1&strip=1&webp=1",
@@ -188,7 +188,7 @@
         "description": "Harlequin is a unique and highly regarded cannabis strain known for its exceptionally high CBD (cannabidiol) content and low THC (tetrahydrocannabinol) levels. This strain is primarily sought after for its therapeutic properties. Harlequin is often used for its potential to provide relief from various medical conditions, including pain, inflammation, anxiety, and epilepsy, while causing minimal psychoactive effects due to its low THC content. It typically offers a clear-headed, relaxed experience without the strong 'high' associated with THC-rich strains. The strain often has a mild and earthy flavor profile. Harlequin is popular among medical cannabis users who are looking for the benefits of CBD without the intoxicating effects of THC, making it a valuable option for those seeking natural relief from various ailments.",
         "image": "https://leafly-public.imgix.net/strains/photos/bsJVwckRoqbWoEoiBzzg_Harlequin_jman_1080x0180.jpg?auto=compress%2Cformat&w=350&dpr=2",
         "link": "https://www.leafly.com/strains/harlequin",
-        "type": "CBD-dominant Sativa",
+        "type": "CBD-Dominant Sativa",
         "illness": "Chronic pain"
       },
       {
@@ -200,235 +200,203 @@
         "illness": "Chronic pain"
       },
       {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illness": 
+        "name": "OG Kush",
+        "description": "OG Kush is a legendary and iconic cannabis strain known for its powerful and euphoria-inducing effects. It typically features a distinctive blend of earthy, pine, and citrus flavors, creating a memorable sensory experience. With a reputation for relaxation and stress relief, OG Kush is a favorite among both recreational and medicinal cannabis users. Its genetics have also contributed to the development of numerous hybrid strains, making it a cornerstone of modern cannabis breeding.",
+        "image": "https://b2628119.smushcdn.com/2628119/app/uploads/2022/10/og-kush-marijuana-strain-scaled.jpg?lossy=1&strip=1&webp=1",
+        "link": "https://leafwell.com/cannabis-strains/og-kush",
+        "type": "Hybrid",
+        "illness": "Nausea"
       },
       {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illness": 
+        "name": "Headband",
+        "description": "Headband is a popular cannabis strain known for its unique combination of effects. This hybrid strain delivers a sense of euphoria and mental clarity, often accompanied by a pleasant sensation of pressure around the forehead, like wearing a 'headband.' Its flavor profile is a mix of earthy and diesel-like tones with hints of citrus. Headband is cherished for its potential to relieve stress and discomfort while allowing users to stay mentally focused, making it a well-regarded choice for various cannabis enthusiasts.",        
+        "image": "https://leafly-public.imgix.net/strains/photos/3EbkAKSsTfyyIsmMfygd_Headband_jman_hdr.png?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/headband",
+        "type": "Hybrid",
+        "illness": "Nausea"
       },
       {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illness": 
+        "name": "Lavender",
+        "description": "Lavender is a delightful cannabis strain known for its soothing and relaxing qualities. It boasts a distinct floral aroma and flavor, often with subtle notes of lavender, making it a unique and pleasant choice. This indica-dominant strain is prized for its potential to induce a calm, serene state of mind and body, making it a favored option for stress relief and relaxation. Lavender is celebrated for its tranquilizing effects and is often used by those seeking a mellow and soothing cannabis experience.",
+        "image": "https://images.leafly.com/flower-images/LAVENDER-060.jpg?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/lavender",
+        "type": "Indica",
+        "illness": "Nausea"
       },
       {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illness": 
+        "name": "Blue Dream",
+        "description": "Blue Dream is a highly popular and well-balanced hybrid cannabis strain that has gained widespread acclaim for its enjoyable effects and pleasant flavor. This strain is the result of crossing the Blueberry indica with the sativa Haze, producing a unique combination of characteristics. Blue Dream is known for its sweet, berry-like aroma and taste, often accompanied by hints of earthiness. Its effects are typically balanced, offering a relaxed body sensation combined with a cerebral and uplifting high. This makes it a versatile strain, suitable for both recreational and medicinal users. Users often report feelings of euphoria, creativity, and stress relief without excessive sedation, making it a favored choice for daytime use and creative activities. Blue Dream is celebrated for its ability to offer the best of both sativa and indica worlds, and it's one of the most beloved strains in the cannabis community.",
+        "image": "https://b2628119.smushcdn.com/2628119/app/uploads/2022/10/blue-dream-marijuana-strain-scaled.jpg?lossy=1&strip=1&webp=1",
+        "link": "https://leafwell.com/cannabis-strains/blue-dream",
+        "type": "Sativa-dominant Hybrid",
+        "illness": "Nausea"
       },
       {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
+        "name": "Durban Poison",
+        "description": "Durban Poison is a renowned and pure sativa cannabis strain celebrated for its energizing and uplifting effects. Originating from South Africa, it offers a sweet and earthy flavor profile with hints of anise. Durban Poison is favored for its ability to provide a clear-headed, euphoric high that boosts creativity and focus. It's a top choice for daytime use and is prized for its motivational and invigorating qualities, making it a popular strain for those seeking a cerebral and active experience.",
+        "image": "https://images.leafly.com/flower-images/durban-poison.jpg?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/durban-poison",
+        "type": "Sativa",
+        "illness": "Nausea"
       },
       {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
+        "name": "Skywalker OG",
+        "description": "Skywalker OG is a potent indica-dominant cannabis strain with a lineage that combines Skywalker and OG Kush. It's characterized by a sweet and earthy flavor profile. This strain is known for its strong relaxing effects that are both physically and mentally calming. It's a popular choice for those seeking relief from stress, anxiety, and physical tension, often leaving users in a state of deep relaxation and bliss. Skywalker OG is also associated with a mild euphoria, making it a well-regarded option for winding down after a long day.",
+        "image": "https://images.leafly.com/flower-images/defaults/long-fluffy-wispy/strain-2.png?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/skywalker-og",
+        "type": "Indica-dominant Hybrid",
+        "illness": "Muscle spasms/Multiple schlerosis"
       },
       {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
+        "name": "Ringo's Gift",
+        "description": "Ringo's Gift is a high-CBD cannabis strain named after the cannabis activist and CBD pioneer, Lawrence Ringo. This hybrid strain is known for its therapeutic properties and balanced CBD-to-THC ratio, typically with more CBD than THC. Ringo's Gift is often chosen for its potential medicinal benefits, such as alleviating pain, inflammation, anxiety, and various medical conditions, while causing minimal intoxication due to its low THC content. It offers a mellow and relaxing experience, making it suitable for those who want the potential therapeutic effects of cannabis without a strong psychoactive high. The strain typically has a pleasant and earthy flavor profile. Ringo's Gift has gained popularity within the medical cannabis community as a CBD-rich option for patients seeking relief from various ailments.",
+        "image": "https://images.leafly.com/flower-images/defaults/generic/strain-15.png?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/ringos-gift",
+        "type": "CBD-Dominant Hybrid",
+        "illness": "Muscle spasms/Multiple schlerosis"
       },
       {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
+        "name": "Forbidden Fruit",
+        "description": "Forbidden Fruit is a fruity and enticing cannabis strain with a sweet and tropical flavor profile. This indica-dominant hybrid is celebrated for its relaxing and mood-enhancing effects. It often induces a sense of euphoria and tranquility, making it an excellent choice for stress relief and relaxation. Forbidden Fruit is distinguished by its vibrant purple and green hues and is a favorite among those looking for a delightful and flavorful cannabis experience with a touch of sedation.",
+        "image": "https://leafly-public.imgix.net/strains/photos/NpVfX1KVSTy0SYoZ112D_ForbiddenFruit.png?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/forbidden-fruit",
+        "type": "Indica",
+        "illness": "Muscle spasms/Multiple schlerosis"
       },
       {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
+        "name": "Cannatonic",
+        "description": "Cannatonic is a hybrid cannabis strain that is well-known for its balanced CBD (cannabidiol) to THC (tetrahydrocannabinol) ratio, typically featuring higher levels of CBD and lower levels of THC. This strain is often chosen for its potential therapeutic benefits and mellow effects. Cannatonic is favored for its potential to provide relief from various medical conditions, including pain, anxiety, and inflammation, while causing minimal psychoactive effects due to its low THC content. It typically offers a gentle, relaxing experience without the intense high associated with THC-rich strains. The strain often has a mild and earthy flavor profile, making it a popular choice among medical cannabis users who seek the benefits of CBD without the intoxication of THC. Cannatonic has played a significant role in advancing the use of CBD in the medical cannabis community.",
+        "image": "https://images.leafly.com/flower-images/cannatonic.png?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/cannatonic",
+        "type": "CBD-Dominant Hybrid",
+        "illness": "Muscle spasms/Multiple schlerosis"
       },
       {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
+        "name": "One to One",
+        "description": "One-to-One is a balanced cannabis strain that typically contains an equal ratio of THC and CBD, making it an ideal choice for users seeking a harmonious blend of effects. This strain offers a mellow and well-rounded experience, with the potential to provide both relaxation and a clear-headed, functional high. One-to-One is often used for its therapeutic properties, offering relief from various ailments while maintaining a gentle and manageable psychoactive experience. It's a versatile strain suitable for a range of users, from novices to seasoned cannabis enthusiasts.",
+        "image": "https://images.leafly.com/flower-images/defaults/generic/strain-26.png?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/one-to-one",
+        "type": "Hybrid",
+        "illness": "Muscle spasms/Multiple schlerosis"
       },
       {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
+        "name": "Blue Dream",
+        "description": "Blue Dream is a highly popular and well-balanced hybrid cannabis strain that has gained widespread acclaim for its enjoyable effects and pleasant flavor. This strain is the result of crossing the Blueberry indica with the sativa Haze, producing a unique combination of characteristics. Blue Dream is known for its sweet, berry-like aroma and taste, often accompanied by hints of earthiness. Its effects are typically balanced, offering a relaxed body sensation combined with a cerebral and uplifting high. This makes it a versatile strain, suitable for both recreational and medicinal users. Users often report feelings of euphoria, creativity, and stress relief without excessive sedation, making it a favored choice for daytime use and creative activities. Blue Dream is celebrated for its ability to offer the best of both sativa and indica worlds, and it's one of the most beloved strains in the cannabis community.",
+        "image": "https://b2628119.smushcdn.com/2628119/app/uploads/2022/10/blue-dream-marijuana-strain-scaled.jpg?lossy=1&strip=1&webp=1",
+        "link": "https://leafwell.com/cannabis-strains/blue-dream",
+        "type": "Sativa-dominant Hybrid",
+        "illness": "PTSD"
       },
       {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
+        "name": "Granddaddy Purple",
+        "description": "Granddaddy Purple, often abbreviated as GDP, is a popular indica-dominant cannabis strain known for its deep purple and violet hues. This strain is cherished for its sweet and grape-like flavor and its ability to induce a profoundly relaxing and sedating high. Granddaddy Purple is frequently chosen by individuals looking for relief from pain, stress, and insomnia, as it tends to promote a calm and euphoric experience, followed by a gentle body buzz. Its iconic appearance and soothing effects have made it a favorite strain among both recreational and medical cannabis users.",
+        "image": "https://b2628119.smushcdn.com/2628119/app/uploads/2023/01/marijuana-bud-general-2.jpeg?lossy=1&strip=1&webp=1",
+        "link": "https://leafwell.com/cannabis-strains/granddaddy-purple",
+        "type": "Indica-dominant Hybrid",
+        "illness": "PTSD"
       },
       {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
+        "name": "Northern Lights",
+        "description": "Northern Lights is a classic and revered indica cannabis strain known for its relaxation-inducing properties and earthy, sweet aroma. It originated in the Pacific Northwest and has become one of the most iconic and influential strains in the world of cannabis. Northern Lights typically produces compact, resinous buds with a vibrant green appearance. The effects of Northern Lights are well-regarded for their deeply calming and sedating nature, making it a popular choice for those seeking relief from stress, pain, and insomnia. This strain is known for inducing a sense of relaxation and euphoria while also helping to ease both physical and mental tension. Its reputation for reliability and potency has made it a staple in the cannabis community for decades.",
+        "image": "https://b2628119.smushcdn.com/2628119/app/uploads/2022/10/northern-lights-marijuana-strain-1566x2048.jpg?lossy=1&strip=1&webp=1",
+        "link": "https://leafwell.com/cannabis-strains/northern-lights",
+        "type": "Indica-dominant Hybrid",
+        "illness": "PTSD"
       },
       {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
+        "name": "Blueberry Kush",
+        "description": "Blueberry Kush is a popular cannabis strain known for its delightful blend of flavors and calming effects. This indica-dominant hybrid combines the sweet and fruity taste of fresh blueberries with earthy undertones, creating a unique and pleasant flavor profile. Its relaxing and euphoria-inducing qualities make it a favorite choice among cannabis enthusiasts seeking tranquility and stress relief. Blueberry Kush is characterized by its dense, deep green buds with a hint of purple and a generous coating of trichomes, making it as visually appealing as it is enjoyable to consume.",
+        "image": "https://images.leafly.com/flower-images/defaults/short-dense-heavy/strain-14.png?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/blueberry-kush",
+        "type": "Indica",
+        "illness": "PTSD"
       },
       {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
+        "name": "Stress Killer",
+        "description": "Stress Killer is a well-named cannabis strain designed to do just that – alleviate stress and tension. This hybrid strain is known for its harmonious blend of uplifting and relaxing effects, making it an ideal choice for those seeking relief from anxiety and stress. Stress Killer offers a gentle euphoria that promotes mental clarity and a sense of calm, without inducing heavy sedation. With a pleasant citrus and earthy flavor profile, it's a popular choice for daytime use, allowing users to maintain focus and creativity while easing their worries.",
+        "image": "https://www.hemper.co/cdn/shop/products/stress_killer__77049.1587843994.1280.1280_2000x.png?v=1627585513",
+        "link": "https://www.cannaconnection.com/strains/stress-killer-autoflowering-cbd",
+        "type": "CBD-Dominant Hybrid",
+        "illness": "PTSD"
       },
       {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
+        "name": "Girl Scout Cookies",
+        "description": "Girl Scout Cookies (GSC) is a popular cannabis strain known for its sweet and earthy flavor profile. This hybrid strain is renowned for its balanced effects, offering a relaxed body high combined with a cerebral, euphoric buzz. GSC is often chosen for its ability to alleviate stress, pain, and anxiety while inducing a sense of happiness and creativity. It's named after its delightful aroma and taste that resembles the famous cookies, making it a favorite among cannabis enthusiasts.",
+        "image": "https://images.leafly.com/flower-images/gsc.png?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/gsc",
+        "type": "Hybrid",
+        "illness": "Stress/Anxiety disorders"
       },
       {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
+        "name": "Jack Herer",
+        "description": "Jack Herer is a legendary and well-loved cannabis strain, revered for its invigorating and uplifting effects. This sativa-dominant strain delivers a clear-headed, energizing high that's perfect for boosting creativity and focus. Named after the cannabis activist and author Jack Herer, it's also recognized for its earthy, piney aroma and distinct spicy flavor profile. Jack Herer is a favorite among those seeking a motivational and euphoric experience, making it a classic choice for daytime use.",
+        "image": "https://images.leafly.com/flower-images/jack-herer.jpg?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/jack-herer",
+        "type": "Sativa-dominant Hybrid",
+        "illness": "Stress/Anxiety disorders"
       },
       {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
+        "name": "OG Kush",
+        "description": "OG Kush is a legendary and iconic cannabis strain known for its powerful and euphoria-inducing effects. It typically features a distinctive blend of earthy, pine, and citrus flavors, creating a memorable sensory experience. With a reputation for relaxation and stress relief, OG Kush is a favorite among both recreational and medicinal cannabis users. Its genetics have also contributed to the development of numerous hybrid strains, making it a cornerstone of modern cannabis breeding.",
+        "image": "https://b2628119.smushcdn.com/2628119/app/uploads/2022/10/og-kush-marijuana-strain-scaled.jpg?lossy=1&strip=1&webp=1",
+        "link": "https://leafwell.com/cannabis-strains/og-kush",
+        "type": "Hybrid",
+        "illness": "Stress/Anxiety disorders"
       },
       {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
+        "name": "Sour Diesel",
+        "description": "Sour Diesel, often referred to as 'Sour D,' is a renowned sativa-dominant cannabis strain celebrated for its distinctive pungent aroma and potent, energizing effects. It's known for its fuel-like, skunky scent with undertones of citrus and earthiness. The effects of Sour Diesel are typically characterized by a powerful and uplifting cerebral high. It offers increased mental clarity, creativity, and motivation, making it a preferred choice for daytime use and enhancing focus and productivity. Many users also report a surge of euphoria and sociability when consuming this strain. Sour Diesel is widely recognized for its potent effects and its ability to alleviate symptoms of depression, stress, and fatigue. It's a beloved strain among sativa enthusiasts for its unique flavor and invigorating experience.",
+        "image": "https://leafly-public.imgix.net/strains/photos/5SPDG4T4TcSO8PgLgWHO_SourDiesel_AdobeStock_171888473.jpg?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/sour-diesel",
+        "type": "Sativa",
+        "illness": "Stress/Anxiety disorders"
       },
       {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
+        "name": "Granddaddy Purple",
+        "description": "Granddaddy Purple, often abbreviated as GDP, is a popular indica-dominant cannabis strain known for its deep purple and violet hues. This strain is cherished for its sweet and grape-like flavor and its ability to induce a profoundly relaxing and sedating high. Granddaddy Purple is frequently chosen by individuals looking for relief from pain, stress, and insomnia, as it tends to promote a calm and euphoric experience, followed by a gentle body buzz. Its iconic appearance and soothing effects have made it a favorite strain among both recreational and medical cannabis users.",
+        "image": "https://b2628119.smushcdn.com/2628119/app/uploads/2023/01/marijuana-bud-general-2.jpeg?lossy=1&strip=1&webp=1",
+        "link": "https://leafwell.com/cannabis-strains/granddaddy-purple",
+        "type": "Indica-dominant Hybrid",
+        "illness": "Stress/Anxiety disorders"
       },
       {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
+        "name": "Sweet and Sour Widow",
+        "description": "Sweet and Sour Widow is a balanced hybrid cannabis strain known for its delightful combination of sweet and tangy flavors. With a moderate THC content, it offers a mellow, uplifting high that relaxes the body and eases the mind, making it a popular choice for those seeking a gentle and enjoyable experience. This strain is prized for its potential to relieve stress, anxiety, and minor aches and pains, making it a well-rounded option for both recreational and medicinal users.",
+        "image": "https://images.leafly.com/flower-images/defaults/generic/strain-8.png?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/sweet-and-sour-widow",
+        "type": "CBD-Dominant Indica",
+        "illness": "Eating disorders"
       },
       {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
+        "name": "Dutch Treat Haze",
+        "description": "Dutch Treat Haze is a sativa-dominant cannabis strain celebrated for its uplifting and invigorating effects. With a delightful blend of sweet and earthy flavors, it offers a clear-headed, creative high that's perfect for daytime use. This strain is cherished for its ability to boost focus, creativity, and mood, making it a favorite among those seeking a cerebral and energizing experience. Dutch Treat Haze is a great choice for social and creative activities, making it a popular option for recreational users and artists alike.",
+        "image": "https://images.leafly.com/flower-images/DUTCH-TREAT-HAZE-089.jpg?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/dutch-treat-haze",
+        "type": "Sativa-dominant Hybrid",
+        "illness": "Eating disorders"
       },
       {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
+        "name": "CBD Yummy",
+        "description": "CBD Yummy is a high-CBD cannabis strain known for its delectable flavor and therapeutic properties. This strain features a sweet and fruity taste, making it a pleasant choice for users. With a low THC content and high CBD levels, it delivers a gentle, soothing experience that's perfect for those seeking relaxation and relief from various ailments. CBD Yummy is often lauded for its potential to alleviate pain, anxiety, and stress while keeping a clear and functional mindset, making it a popular option for medicinal users.",
+        "image": "https://images.leafly.com/flower-images/defaults/generic/strain-21.png?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/cbd-yummy",
+        "type": "CBD-Dominant Sativa",
+        "illness": "Eating disorders"
       },
       {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
+        "name": "Sister",
+        "description": "Sister is a phenotype of the much-loved Chemdawg, and is not for the faint of heart due to its potent, heady effects that will leave you euphoric and mega aware! It is a great mood booster and will help you get things done as the clear-headedness sets in.",
+        "image": "https://images.leafly.com/flower-images/defaults/generic/strain-24.png?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/the-sister",
+        "type": "Indica-dominant Hybrid",
+        "illness": "Eating disorders"
       },
       {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
-      },
-      {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
-      },
-      {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
-      },
-      {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
-      },
-      {
-        "name":
-        "description":
-        "image":
-        "link":
-        "type":
-        "illnesses": []
-      },
+        "name": "Critical Cure",
+        "description": "Critical Cure is a well-balanced hybrid cannabis strain known for its impressive medicinal properties. With a balanced ratio of CBD and THC, it offers a gentle, calming high that's cherished for its therapeutic benefits. This strain is highly regarded for its potential to alleviate pain, reduce inflammation, and ease anxiety and stress, all while maintaining mental clarity. Critical Cure is a popular choice among medical cannabis users seeking relief from various conditions, making it a critical option for those in need of healing and relaxation.",
+        "image": "https://images.leafly.com/flower-images/defaults/generic/strain-15.png?auto=compress%2Cformat&w=350&dpr=2",
+        "link": "https://www.leafly.com/strains/cbd-critical-cure",
+        "type": "CBD-Dominant Indica",
+        "illness": "Eating disorders"
+      }
 ]
