@@ -1,51 +1,61 @@
 [
     {
         "name": "Cancer",
+        "nameHyphenated": "Cancer",
         "effectOnUser": "Marijuana can slow growth or cause death in certain types of cancer cells as well as relieve unpleasant side effects by suppressing nausea, increasing appetite, and relieving pain.",
         "link": "https://www.cancer.org/cancer/managing-cancer/treatment-types/complementary-and-integrative-medicine/marijuana-and-cancer.html#:~:text=More%20recently%2C%20scientists%20reported%20that,of%20some%20forms%20of%20cancer."
     },
     {
         "name": "HIV/AIDS",
+        "nameHyphenated": "HIV-AIDS",
         "effectOnUser": "Marijuana cacn relieve unpleasant side effects by easing pain and anxiety, reducing inflammation, and improving appetite.",
         "link": "https://www.thewellproject.org/hiv-information/cannabis-hiv-and-your-health#:~:text=to%20its%20use.-,Why%20Do%20People%20Living%20with%20HIV%20Use%20Cannabis%3F,damage%20to%20the%20nervous%20system."
     },
     {
         "name": "Epilepsy/Seizures",
+        "nameHyphenated": "Epilepsy-Seizures",
         "effectOnUser": "Marijuana can reduce seizure activity.",
         "link": "https://www.epilepsy.com/treatment/alternative-therapies/medical-marijuana"
     },
     {
         "name": "Glaucoma",
+        "nameHyphenated": "Glaucoma",
         "effectOnUser": "Marijuana can lower eye pressure.",
         "link": "https://assileye.com/blog/does-weed-help-glaucoma/"
     },
     {
         "name": "Chronic pain",
+        "nameHyphenated": "Chronic-pain",
         "effectOnUser": "Marijuana activates the brain's reward system and reduce pain levels.",
         "link": "https://www.medicalnewstoday.com/articles/322051#:~:text=THC%20resembles%20the%20cannabinoid%20chemicals,system%20and%20reduces%20pain%20levels."
     },
     {
         "name": "Nausea",
+        "nameHyphenated": "Nausea",
         "effectOnUser": "Marijuana can reduce nausea and vomiting due to its antiemetic properties.",
         "link": "https://elevate-holistics.com/medical-condition/medical-marijuana-and-nausea/"
     },
     {
         "name": "Muscle spasms/Multiple schlerosis",
+        "nameHyphenated": "Muscle-spasms-multiple-schlerosis",
         "effectOnUser": "Marijuana prevents infllamation and muscle spasms and eases sleep problems.",
         "link": "https://www.mssociety.org.uk/about-ms/treatments-and-therapies/cannabis/about-cannabis-and-ms"
     },
     {
         "name": "PTSD",
+        "nameHyphenated": "PTSD",
         "effectOnUser": "Marijuana reduces and moderates outbursts of traumatic memories and eases anxiety and sleep problems.",
         "link": "https://imcannabis.com/medical-cannabis-for-ptsd/"
     },
     {
         "name": "Stress/Anxiety disorders",
+        "nameHyphenated": "Stress-anxiety-disorders",
         "effectOnUser": "Marijuana can cause a calm or relaxing effect by affecting the neurotransmitter GABA.",
         "link": "https://www.talkspace.com/mental-health/conditions/articles/treating-anxiety-with-marijuana-effects/"
     },
     {
         "name": "Eating disorders",
+        "nameHyphenated": "Eating-disorders",
         "effectOnUser": "Marijuana can stimulate appetite and help regulate it",
         "link": "https://www.cannamd.com/marijuana-eating-disorders/"
     }

@@ -12,6 +12,9 @@ const illnessSchema = new Schema({
     type: String,
     required: true,
   },
+  nameHyphenated: {
+    type: String,
+  },
   effectOnUser: {
     type: String,
     required: true,
