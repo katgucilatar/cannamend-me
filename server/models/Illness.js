@@ -10,7 +10,6 @@ const illnessSchema = new Schema({
   },
   illnessId: {
     type: String,
-    required: true,
   },
   nameHyphenated: {
     type: String,
@@ -22,7 +21,7 @@ const illnessSchema = new Schema({
   link: {
     type: String,
     required: true,
-  }
+  },
 });
 
 const Illness = model('Illness', illnessSchema);

@@ -8,7 +8,7 @@ const resolvers = {
         const params = strainId ? { strainId } : {};
         return Strain.find(params);
     },
-    ilness: async (parent, { illnessId }) => {
+    illness: async (parent, { illnessId }) => {
         const params = illnessId ? { illnessId } : {};
         return Illness.find(params);
       },

@@ -1,6 +1,6 @@
 // PUT REGISTRATION COMPONENT
 
-import Registration from "../components/Login";
+import Registration from "../components/Registration";
 
 const Register = () => {
     return (
